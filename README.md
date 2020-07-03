@@ -1,10 +1,6 @@
 <div align="center">
-  <div style="float: left; width: 50%">
-    <img alt="1" title="tela sem cep" src=".github/screen1.png" width='250px'/>
-    </div>
-  <div style="float: left; width: 50%">
-    <img alt="2" title="tela dados cep" src=".github/screen2.png" width='250px'/>
-  </div>
+  <img alt="1" title="tela sem cep" src=".github/screen1.png" width='250px'/>
+  <img alt="2" title="tela dados cep" src=".github/screen2.png" width='250px'/>
 </div>  
 
 ## :computer: Projeto
