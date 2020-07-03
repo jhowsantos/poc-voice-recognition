@@ -27,7 +27,7 @@ __*GET*__ *https://api.pagar.me/1/zipcodes/seu-cep-aqui*
 No seu terminal copie e cole ou digite o comando abaixo:
 
 ```git
-git clone https://github.com/jhowsantos/pocMegahackVtex.git
+git clone https://github.com/jhowsantos/poc-voice-recognition.git
 ````
 
 Após realizar o clone acesse a pasta do projeto:
